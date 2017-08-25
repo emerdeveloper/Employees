@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">Hello World, Click Me!</string>
+  <string name="app_name">Employee.Android</string>
+  <string name="username">Correo</string>
+  <string name="password">Contraseña</string>
+  <string name="buttonLogin">Entrar</string>
+
+  <string name="usernameRequired">Se requiere el correo.</string>
+  <string name="passwordRequired">Se requere la contraseña.</string>
+  <string name="fillRequired">Por favor llenar el campo requerido.</string>
+  <string name="fillRight">Gracias por llenar los campos.</string>
+
+  <string name="URLAPI">http://tataappapi.azurewebsites.net</string>
+</resources>
